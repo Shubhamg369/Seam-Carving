@@ -59,6 +59,6 @@ Don't believe me? Check out the table below, showcasing the dual-gradient energi
 
 Removing seams horizontally? No sweat for the findHorizontalSeam() method. It's like findVerticalSeam(), but instead of telling you which column to 
 get rid of, it hands you an array of the rows to remove. For the 6-by-5 image, it would return { 2, 2, 1, 2, 1, 2 } because those are the row 
-numbers of the pixel to be nixed for the minimum energy seam.
+numbers of the pixel to be nixed for the minimum energy seam. 
 
 ![Login](https://github.com/Shubhamg369/Private/blob/main/Screenshot%202023-03-12%20at%201.57.12%20PM.png)
